@@ -3,7 +3,7 @@
 
 var min = 1
 var max = 10
-var user = 5
+var user = 5 // Variavel que o usuario irá dizer
 function getRandomInt(min, max) {
     return Math.floor(Math.random() * (max - min + 1)) + min;
 } var resultado = getRandomInt(min, max) 
