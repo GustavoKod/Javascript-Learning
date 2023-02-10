@@ -1,4 +1,4 @@
-//Escreva um programa que, ao iniciar gera um valor aleatorio de 1 a 10 e permite que o usuario chjute um numero ate que o valor 
+//Escreva um programa que, ao iniciar gera um valor aleatorio de 1 a 10 e permite que o usuario chjute um numero ate que o valor ->
 // aleatorio gerado no inicio do programa seja chutado corretamente. o programa deve informar caso o chute tenha sido acima, abaixo ou igual ao valor gerado no inicio.
 
 var min = 1
